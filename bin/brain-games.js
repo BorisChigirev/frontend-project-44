@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 
+import askNameAndGreet from '../src/cli.js';
+
 console.log('Welcome to the Brain Games!');
 
-import { askNameAndGreet } from '/Users/borischigirev/Desktop/Hexlet/frontend-project-44/src/cli.js'
-
 askNameAndGreet();
-
