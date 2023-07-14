@@ -3,4 +3,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/fb43c08d05433e96e3fe/maintainability)](https://codeclimate.com/github/BorisChigirev/frontend-project-44/maintainability)
 
-https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI
+<script async id="asciicast-VFr7KsqJK2gECqNRbGL6VmUpI" src="https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI.js"></script>
