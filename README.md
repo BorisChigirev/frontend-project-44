@@ -3,6 +3,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/fb43c08d05433e96e3fe/maintainability)](https://codeclimate.com/github/BorisChigirev/frontend-project-44/maintainability)
 
+# Игры разума
+
 ## Демо Игры: "Проверка на чётность" 
 <a href="https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI" target="_blank"><img src="https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI.svg" /></a>
 
