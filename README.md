@@ -3,17 +3,17 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/fb43c08d05433e96e3fe/maintainability)](https://codeclimate.com/github/BorisChigirev/frontend-project-44/maintainability)
 
-Игра: "Проверка на чётность"
-[![asciicast](https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI.svg)](https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI)
+## Демо Игры: "Проверка на чётность" 
+<a href="https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI" target="_blank"><img src="https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI.svg" /></a>
 
-Игра: "Калькулятор"
-[![asciicast](https://asciinema.org/a/AY0CL7BehRrimkN2YmDxXvAvK.svg)](https://asciinema.org/a/AY0CL7BehRrimkN2YmDxXvAvK)
+## Демо Игры: "Калькулятор"
+<a href="https://asciinema.org/a/AY0CL7BehRrimkN2YmDxXvAvK" target="_blank"><img src="https://asciinema.org/a/AY0CL7BehRrimkN2YmDxXvAvK.svg" /></a>
 
-Игра "НОД"
-[![asciicast](https://asciinema.org/a/y6DSYpGe1TVvBhUV12LhwFiV2.svg)](https://asciinema.org/a/y6DSYpGe1TVvBhUV12LhwFiV2)
+## Демо Игры: "НОД"
+<a href="https://asciinema.org/a/y6DSYpGe1TVvBhUV12LhwFiV2" target="_blank"><img src="https://asciinema.org/a/y6DSYpGe1TVvBhUV12LhwFiV2.svg" /></a>
 
-Игра "Арифметическая прогрессия"
-[![asciicast](https://asciinema.org/a/fcysXK2TkmbmPupgl8fwaKj2D.svg)](https://asciinema.org/a/fcysXK2TkmbmPupgl8fwaKj2D)
+## Демо Игры: "Арифметическая прогрессия"
+<a href="https://asciinema.org/a/fcysXK2TkmbmPupgl8fwaKj2D" target="_blank"><img src="https://asciinema.org/a/fcysXK2TkmbmPupgl8fwaKj2D.svg" /></a>
 
-Игра "Простое ли число?"
-[![asciicast](https://asciinema.org/a/IDHlVThXddgpskiXNR0iMA7qG.svg)](https://asciinema.org/a/IDHlVThXddgpskiXNR0iMA7qG)
+## Демо Игры: "Простое ли число?"
+<a href="https://asciinema.org/a/IDHlVThXddgpskiXNR0iMA7qG" target="_blank"><img src="https://asciinema.org/a/IDHlVThXddgpskiXNR0iMA7qG.svg" /></a>
