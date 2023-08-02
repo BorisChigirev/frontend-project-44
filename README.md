@@ -5,6 +5,11 @@
 
 # Игры разума
 
+## Для установки пакета необходимо:
+- клонировать репозиторий
+- установить npm (команда `make install` из корневого каталога)
+- создать локальную связь (команда `npm link`, возможно придется запустить под sudo)
+
 ## Демо Игры: "Проверка на чётность" 
 <a href="https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI" target="_blank"><img src="https://asciinema.org/a/VFr7KsqJK2gECqNRbGL6VmUpI.svg" /></a>
 
