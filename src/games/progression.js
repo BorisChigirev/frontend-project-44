@@ -6,7 +6,7 @@ const purposeOfProgressionGame = 'What number is missing in the progression?';
 const getProgression = (randomInitialNumber, randomStepNumber, randomLengthFromRange) => {
   const progression = [];
   let nextNumber = randomInitialNumber + randomStepNumber;
-  for (let i = 1; i < randomLengthFromRange - 1; i += 1) {
+  for (let i = 1; i < randomLengthFromRange; i += 1) {
     nextNumber += randomStepNumber;
     progression.push(nextNumber);
   } return progression;
