@@ -1,28 +1,30 @@
-import { getRandom, basicOfGames } from '../index.js';
+import runGame from '../index.js';
+import { getRandom } from '../utils.js';
 
-const calcGame = () => {
-  const purposeOfCalcGame = 'What is the result of the expression?';
+const purposeOfCalcGame = 'What is the result of the expression?';
+const signs = ['+', '-', '*'];
 
-  const taskForCalcGame = () => {
-    const randomNumber1 = getRandom(10);
-    const randomNumber2 = getRandom(10);
-    const signs = ['+', '-', '*'];
-    const randomSign = signs[getRandom(2)];
-
-    const question = `${randomNumber1} ${randomSign} ${randomNumber2}`;
-
-    let result = 0;
-    if (randomSign === signs[0]) {
-      result = randomNumber1 + randomNumber2;
-    } else if (randomSign === signs[1]) {
-      result = randomNumber1 - randomNumber2;
-    } else {
-      result = randomNumber1 * randomNumber2;
-    }
-    result = result.toString();
-
-    return [question, result];
-  };
-  basicOfGames(purposeOfCalcGame, taskForCalcGame);
+const calculatingNumbers = (randomNumber1, randomSign, randomNumber2) => {
+  let answer;
+  if (randomSign === signs[0]) {
+    answer = randomNumber1 + randomNumber2;
+  } else if (randomSign === signs[1]) {
+    answer = randomNumber1 - randomNumber2;
+  } else {
+    answer = randomNumber1 * randomNumber2;
+  }
+  return answer;
 };
-export default calcGame;
+
+const taskForCalcGame = () => {
+  const randomNumber1 = getRandom(10);
+  const randomNumber2 = getRandom(10);
+  const randomSign = signs[getRandom(signs.length - 1)];
+  const question = `${randomNumber1} ${randomSign} ${randomNumber2}`;
+  const answer = calculatingNumbers(randomNumber1, randomSign, randomNumber2);
+  return [question, String(answer)];
+};
+
+export default () => {
+  runGame(purposeOfCalcGame, taskForCalcGame);
+};
