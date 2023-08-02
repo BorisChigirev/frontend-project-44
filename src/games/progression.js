@@ -9,8 +9,7 @@ const getProgression = (randomInitialNumber, randomStepNumber, randomLengthFromR
   for (let i = 1; i < randomLengthFromRange - 1; i += 1) {
     nextNumber += randomStepNumber;
     progression.push(nextNumber);
-  }
-  return progression;
+  } return progression;
 };
 
 const taskForProgressionGame = () => {
